@@ -16,4 +16,5 @@ void loop(){
 	Serial.print(!upPressed);
 	Serial.print("  DOWN = ");
 	Serial.println(!downPressed);
+	  delay(5000);
 }
